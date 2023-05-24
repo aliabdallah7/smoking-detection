@@ -4,7 +4,7 @@
   Body Signal of Smoking 🚭
 </h1>
     <h5>
-        Data Analytics project
+        Data Analytics project in Data Analytics Course in FCIS-ASU
     </h5>
 </div>
 <br>
@@ -12,3 +12,9 @@
 
 # Introduction
 This dataset is a collection of basic health biological signal data. The goal is to determine the presence or absence of smoking through bio-signals. We will perform data analytics and with using some of classification models will be able to prdict if he/she is a smoker or not based on his/her bio-signals.
+
+# List of models
+- ✔️ SVM "SVC" Support Vector Machine
+- ✔️ Random Forest
+- ✔️ XGBoost
+
