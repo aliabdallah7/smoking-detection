@@ -8,7 +8,6 @@
     </h5>
 </div>
 <br>
-<br>
 
 # Introduction
 This dataset is a collection of basic health biological signal data. The goal is to determine the presence or absence of smoking through bio-signals. We will perform data analytics and with using some of classification models will be able to prdict if he/she is a smoker or not based on his/her bio-signals.
@@ -17,4 +16,3 @@ This dataset is a collection of basic health biological signal data. The goal is
 - ✔️ SVM "SVC" Support Vector Machine
 - ✔️ Random Forest
 - ✔️ XGBoost
-
